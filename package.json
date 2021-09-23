@@ -1,0 +1,25 @@
+{
+  "name": "parsel_set",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimEdam/parsel_set.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksimEdam/parsel_set/issues"
+  },
+  "homepage": "https://github.com/MaksimEdam/parsel_set#readme"
+}
